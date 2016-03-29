@@ -1,0 +1,11 @@
+# Build output
+output
+
+# PyCharm, IntelliJ IDEA-specific files
+*.idea
+*.iml
+
+# Editor backups
+*.bak
+*.*~
+.*.*.sw?
